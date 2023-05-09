@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crisher73/portfolio/static/css/main.2dcda9b5.css",
+    "main.js": "/crisher73/portfolio/static/js/main.a6bddca8.js",
+    "index.html": "/crisher73/portfolio/index.html",
+    "main.2dcda9b5.css.map": "/crisher73/portfolio/static/css/main.2dcda9b5.css.map",
+    "main.a6bddca8.js.map": "/crisher73/portfolio/static/js/main.a6bddca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcda9b5.css",
+    "static/js/main.a6bddca8.js"
+  ]
+}
