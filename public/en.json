@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Cristina Hernández.I am passionate about constant learning and am currently in an exciting professional transition towards the world of software development. As an aspiring Frontend Developer, I have acquired skills in programming logic, Javascript, and Typescript.Additionally, I am constantly improving my skills in React, state management, Redux, and Unit Testing. am excited about the idea of joining a startup with a clear vision and a focus on improving something in the world, where I can contribute my skills and develop my full potential as a Developer. Feel free to connect with me and explore possible opportunities together!",
+    "description": "👋 I'm Cristina Hernández.\nI am passionate about constant learning and am currently in an exciting professional transition towards the world of software development.\nAs an aspiring Frontend Developer, I have acquired skills in programming logic, Javascript, and Typescript.\nAdditionally, I am constantly improving my skills in React, state management, Redux, and Unit Testing.\nI am excited about the idea of joining a startup with a clear vision and a focus on improving something in the world, where I can contribute my skills and develop my full potential as a Developer.\nFeel free to connect with me and explore possible opportunities together!",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -48,6 +48,14 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind"
         }
       ]
     },
@@ -103,7 +111,7 @@
       "title": "Food Engineer",
       "years": "01.2015 - 04.2022",
       "mainTech": [
-        "I + D"
+        "Investigation and development"
       ],
       "technologies": [
         "Quality Managment",

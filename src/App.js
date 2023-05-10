@@ -24,8 +24,8 @@ class App extends Component {
     document.documentElement.lang = pickedLanguage;
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
-        ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+        ? `en.json`
+        : `es.json`;
     this.loadResumeFromPath(resumePath);
   }
 
@@ -59,7 +59,7 @@ class App extends Component {
         this.setState({ resumeData: data });
       }.bind(this),
       error: function (xhr, status, err) {
-        alert(err);
+        console.log(err);
       },
     });
   }
@@ -74,7 +74,7 @@ class App extends Component {
         document.title = `${this.state.sharedData.basic_info.name}`;
       }.bind(this),
       error: function (xhr, status, err) {
-        alert(err);
+        console.log(err);
       },
     });
   }
