@@ -1,0 +1,180 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Soy Cristina Hernández. Soy una apasionada por el aprendizaje constante y actualmente estoy en una emocionante transición profesional hacia el mundo del desarrollo de software. Como aspirante a Frontend Developer, he adquirido habilidades en lógica de programación, Javascript, Typescript. Además, estoy mejorando constantemente mis habilidades en React, Manejo del estado, Redux y Unit Test. Me entusiasma la idea de unirme a una startup con una visión clara y un enfoque en mejorar algo en el mundo, donde pueda aportar mis habilidades y desarrollar todo mi potencial como Developer.¡Siéntete libre de conectarme y explorar posibles juntos!",
+      "section_name": {
+        "about": "Acerca de mi",
+        "projects": "Proyectos",
+        "skills": "habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "Lista de tareas",
+        "startDate": "2023",
+        "description": "Este fue mi primer proyecto usando React. Es una aplicación en la que puedes agregar listas de tareas, ponerles título y marcarlas como realizadas o pendientes.",
+        "images": [
+          "images/portfolio/todo-list/p1.png",
+          "images/portfolio/todo-list/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Buscador de peliculas",
+        "startDate": "2018",
+        "description": "Aplicación de búsqueda de películas que le permite buscar películas por título y ver los detalles de la película seleccionada, como el título, el póster, el año de lanzamiento y la clasificación.",
+        "images": [
+          "images/portfolio/moviesSearcher/p3.png",
+          "images/portfolio/moviesSearcher/p4.png",
+          "images/portfolio/moviesSearcher/p5.png"
+        ],
+        "url": "https://crisher73.github.io/new-movies-searcher/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          }
+        ]
+      },
+      {
+        "title": "Juego de Memoria",
+        "startDate": "2023",
+        "description": "Cree este juego de memoria para evualer mis conocimientos en HTML, CSS y JS. ",
+        "images": [
+          "images/portfolio/memoriesGame/p8.png",
+          "images/portfolio/memoriesGame/p9.png", 
+          "images/portfolio/memoriesGame/p9.png"
+        ],
+        "url": "https://crisher73.github.io/Memories-Game/",
+          "technologies": [
+            {
+              "class": "devicon-javascript-plain",
+              "name": "Javascript"
+            },
+            {
+              "class": "devicon-html5-plain",
+              "name": "HTML5"
+            },
+            {
+              "class": "devicon-css3-plain",
+              "name": "css3"
+            }
+        ]
+      },
+      {
+        "title": "Emebtecnologia",
+        "startDate": "2022",
+        "description": "Creación de sitio web.",
+        "images": [
+          "images/portfolio/emebTecnologia/p12.png",
+          "images/portfolio/emebTecnologia/p13.png",
+          "images/portfolio/emebTecnologia/p14.png"
+        ],
+        "url": "https://www.emebtecnologia.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          }
+        ]
+      }, 
+      {
+        "title": "ASJ Consultores",
+        "startDate": "2022",
+        "description": "Creación de sitio web.",
+        "images": [
+          "images/portfolio/asjConsultores/p15.png",
+          "images/portfolio/asjConsultores/p16.png",
+          "images/portfolio/asjConsultores/p17.png"
+        ],
+        "url": "https://www.asjconsultores.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          }
+        ]
+      }, 
+      {
+        "title": "Ecoanthophila",
+        "startDate": "2019",
+        "description": "Creación de Ecommerce. Integración con wowcommerce. Integración con plataforma de pagos.",
+        "images": [
+          "images/portfolio/ecoanthophila/p5.png",
+          "images/portfolio/ecoanthophila/p6.png"
+        ],
+        "url": "https://www.ecoanthophila.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ecoanthophila",
+        "title": "CEO",
+        "years": "08.2019 - presente",
+        "mainTech": [
+          "Wordpress"
+        ],
+        "technologies": [
+          "CloudFlare",
+          "cPanel",
+          "Elementor", 
+          "Woowcommerce", 
+          "Wompi"
+        ]
+      },
+      {
+        "company": "ASJ Consultores",
+        "title": "Desarrolladora web",
+        "years": "11.2022 - 12.2022",
+        "mainTech": [
+          "Wordpress"
+        ],
+        "technologies": [
+          "CloudFlare",
+          "cPanel",
+          "Elementor"
+        ]
+      },
+      {
+        "company": "Otras industrias de alimentos",
+        "title": "Ingeniera de alimentos",
+        "years": "01.2015 - 04.2022",
+        "mainTech": [
+          "Investigacíon y Desarrollo"
+        ],
+        "technologies": [
+          "Control de calidad",
+          "Lider de producción"
+        ]
+      }
+    ]
+  }
