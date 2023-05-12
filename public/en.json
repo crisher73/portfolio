@@ -60,9 +60,34 @@
       ]
     },
     {
+      "title": "Memories Game",
+      "startDate": "2023",
+      "description": "Create a memories game to evaluate my knowledge in HTML, CSS y JS. ",
+      "images": [
+        "images/portfolio/memoriesGame/p8.png",
+        "images/portfolio/memoriesGame/p9.png", 
+        "images/portfolio/memoriesGame/p10.png"
+      ],
+      "url": "https://crisher73.github.io/Memories-Game/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          }
+      ]
+    },
+    {
       "title": "Ecoanthophila",
       "startDate": "2019",
-      "description": "Creation of e-commerce on Wordpress. Creation of content for social media. Communication with clients and suppliers.",
+      "description": "E-commerce creation. Integration with wowcommerce. Integration with payment platform.",
       "images": [
         "images/portfolio/ecoanthophila/p5.png",
         "images/portfolio/ecoanthophila/p6.png",
