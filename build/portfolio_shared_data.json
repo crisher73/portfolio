@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Cristina Hernández",
+      "titles": [ "Front-end Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/crisher73",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/achh17/",
+          "class": "fab fa-linkedin"
+        },
+        {
+        "name": "WhatsApp",
+        "url": "https://wa.me/3016640058",
+        "class": "fab fa-whatsapp"
+        },
+        {
+          "name": "Email",
+          "url": "mailto:achh17@gmail.com",
+          "class": "far fa-envelope"
+          }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "90"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "75"
+        }
+      ]
+    }
+  }
