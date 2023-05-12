@@ -1,5 +1,5 @@
 <img width="80%" align="center" src="https://raw.githubusercontent.com/crisher73/portfolio/main/public/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="ttps://raw.githubusercontent.com/crisher73/portfolio/main/public/images/mobile_demo.gif" alt="portfolio mobile demo gif"/>
+<img height="350px" align="right" src="https://raw.githubusercontent.com/crisher73/portfolio/main/public/images/mobile_demo.gif" alt="portfolio mobile demo gif"/>
 
 <pre>
 ⭐ Hi, I am Cristina and this is my new portfolio as a Frontend Developer.
