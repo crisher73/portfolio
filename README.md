@@ -11,4 +11,6 @@
 
 Check live demonstration <a href="https://crisher73.github.io/portfolio/"><strong>here</strong></a>
 
+<br/>
+
 <img width="100%" src="https://raw.githubusercontent.com/crisher73/portfolio/main/public/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
