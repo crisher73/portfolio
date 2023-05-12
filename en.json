@@ -85,6 +85,40 @@
       ]
     },
     {
+      "title": "Emebtecnologia",
+      "startDate": "2022",
+      "description": "Web site creation",
+      "images": [
+        "images/portfolio/emebTecnologia/p12.png",
+        "images/portfolio/emebTecnologia/p13.png",
+        "images/portfolio/emebTecnologia/p14.png"
+      ],
+      "url": "https://www.emebtecnologia.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        }
+      ]
+    }, 
+    {
+      "title": "ASJ Consultores",
+      "startDate": "2022",
+      "description": "Web site creation.",
+      "images": [
+        "images/portfolio/asjConsultores/p15.png",
+        "images/portfolio/asjConsultores/p16.png",
+        "images/portfolio/asjConsultores/p17.png"
+      ],
+      "url": "https://www.asjconsultores.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        }
+      ]
+    }, 
+    {
       "title": "Ecoanthophila",
       "startDate": "2019",
       "description": "E-commerce creation. Integration with wowcommerce. Integration with payment platform.",
@@ -112,8 +146,7 @@
       ],
       "technologies": [
         "CloudFlare",
-        "cPanel",
-        "Elementor", 
+        "cPanel", 
         "Woowcommerce", 
         "Wompi"
       ]
