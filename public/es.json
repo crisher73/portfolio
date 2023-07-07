@@ -11,6 +11,23 @@
     },
     "projects": [
       {
+        "title": "teamUp",
+        "startDate": "2023",
+        "description": "Voluntariado para realizar sitio web en wordpress con elementor",
+        "images": [
+          "images/portfolio/teamUp/p19.png",
+          "images/portfolio/teamUp/p18.png", 
+          "images/portfolio/teamUp/p20.png"
+        ],
+        "url": "https://teamupco.co/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          }
+        ]
+      },
+      {
         "title": "Lista de tareas",
         "startDate": "2023",
         "description": "Este fue mi primer proyecto usando React. Es una aplicación en la que puedes agregar listas de tareas, ponerles título y marcarlas como realizadas o pendientes.",
