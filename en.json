@@ -11,6 +11,23 @@
   },
   "projects": [
     {
+      "title": "teamUp",
+      "startDate": "2023",
+      "description": "Volunteer to make a website in wordpress with elementor. They are a digital human resources agency that specializes in connecting talented young individuals with opportunities in the job market. Our goal is to provide students, recent graduates, and self-taught individuals with the opportunity to gain their first experiences in the working world. Leveraging our extensive knowledge and networks, we identify the needs of companies and carefully select the most suitable candidates for each position.",
+      "images": [
+        "images/portfolio/teamUp/p19.png",
+        "images/portfolio/teamUp/p18.png", 
+        "images/portfolio/teamUp/p20.png"
+      ],
+      "url": "https://teamupco.co/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        }
+      ]
+    },
+    {
       "title": "Todo List",
       "startDate": "2023",
       "description": "This was my first project using React. It is an application in which you can add task lists, give them a title and mark them as done or pending",
